@@ -1,7 +1,5 @@
 # Ecommerce Website
 
-![Ecommerce](ecommerce_image.png)
-
 Welcome to the README for the E-commerce Website project. This project involves building a comprehensive online platform for buying and selling products. It provides users with an intuitive interface to browse products, make purchases, and manage their accounts.
 
 ## Table of Contents
