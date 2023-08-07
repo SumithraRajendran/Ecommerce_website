@@ -16,13 +16,9 @@ Welcome to the README for the E-commerce Website project. This project involves 
 
 ## Features
 
-- User authentication and account management.
-- Browse products by category, search for specific items.
+- Browse products by category, and search for specific items.
 - Detailed product pages with images, descriptions, and reviews.
 - Add items to the shopping cart and proceed to checkout.
-- Secure payment processing.
-- Order history and tracking.
-- Seller dashboard for product management and sales tracking.
 
 ## Demo
 
