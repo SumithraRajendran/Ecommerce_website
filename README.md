@@ -11,8 +11,6 @@ Welcome to the README for the E-commerce Website project. This project involves 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
